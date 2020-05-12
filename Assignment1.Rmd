@@ -9,7 +9,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-The source code is available at GitHub. [Just click here!]()
+The source code is available at GitHub. [Just click here!](https://github.com/kaanksh/Leaflet-Assignment/blob/master/Assignment1.Rmd)
 
 ## Instruction
 
